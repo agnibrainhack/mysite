@@ -1,0 +1,93 @@
+h1 a{
+    color: #fca205;
+    font-family: "DejaVu Sans";
+}
+.page-header {
+    background-color: #59b7cf;
+    margin-top: 0;
+    padding: 20px 20px 70px 60px;
+    font-size: larger;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    font-family: "Droid Sans Mono Dotted";
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+.top-menu{
+    align-self: center;
+}
+
+
+.content {
+    margin-left: 40px;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Lobster', cursive;
+
+}
+h4{
+    color: #3058b2;
+    font-size: 30px;
+}
+h5{
+    color: white;
+    font-size: 20px;
+}
+h6{
+    color: white;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: "Arial";
+}
+
+
+  p{
+  background-color: #ffa31a;
+      border-radius: 25px;
+      padding: 20px;
+      width: auto;
+      border: 2px solid #ee4111;
+      font-family: "Century Schoolbook L";
+      font-size: 16px;
+
+}
+h7{
+    color: white;
+    margin-left: 40px;
+    font-family: Arial;
+}
+
+.date {
+    color: #828282;
+
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    color: white;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
