@@ -25,7 +25,7 @@ SECRET_KEY = 'o_ew$n60b_dxs3$0%$e-&^&9&+7w(#qffmmuare*99!d6=trsz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','agnibrainhack.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','darkdragonsofgcect.pythonanywhere.com']
 
 
 # Application definition
